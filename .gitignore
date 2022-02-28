@@ -1,0 +1,4 @@
+*.key
+*.trust
+*.cert
+*.crt
